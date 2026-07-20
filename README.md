@@ -1,6 +1,6 @@
 # MP3 Player for Flipper Zero
 
-Current test build: **v0.2.12**
+Current version: **v2.12**
 
 Created by **Coolshrimp**.
 

@@ -355,7 +355,7 @@ static void mp3_draw_settings(Canvas *canvas, const Mp3App *app) {
 static void mp3_draw_about(Canvas *canvas) {
   mp3_draw_header(canvas, "About");
   canvas_set_font(canvas, FontSecondary);
-  canvas_draw_str(canvas, 4, 21, "MP3 Player v0.2.12");
+  canvas_draw_str(canvas, 4, 21, "MP3 Player v2.12");
   canvas_draw_str(canvas, 4, 29, "Created by Coolshrimp");
   canvas_draw_str(canvas, 4, 37, "External MAX98357A:");
   canvas_draw_str(canvas, 4, 45, "BCLK 5/PB3  DIN 2/PA7");
