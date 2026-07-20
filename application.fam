@@ -1,6 +1,6 @@
 App(
     appid="mp3_player",
-    name="Mp3 Player",
+    name="MP3 Player",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="app_main",
     requires=["gui", "storage"],
