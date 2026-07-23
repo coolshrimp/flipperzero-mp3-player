@@ -16,7 +16,7 @@ sourcecode:
 name: MP3 Player
 id: mp3_player
 category: Media
-version: "3.4"
+version: "3.5"
 author: Coolshrimp
 
 icon: music_icon.png
