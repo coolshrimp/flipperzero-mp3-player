@@ -11,7 +11,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/coolshrimp/flipperzero-mp3-player.git
-    commit_sha: 8132ac374dddb731378ebae48bbb14da27b20b4c
+    commit_sha: 965c0db742a6d420516ac695a5e1571cefe93e82
 
 name: MP3 Player
 id: mp3_player
