@@ -51,8 +51,8 @@ The About screen lists the full pinout for both amplifier modules and scrolls wi
 The default library is /ext/music. To change it, open Settings, highlight Music folder and press OK. A folder browser opens on the SD card:
 
 * **OK** on a folder name enters that folder.
-* **OK** on **[..]** goes up one level.
-* **OK** on **[Use this folder]** saves the current location and rescans the library.
+* **OK** on ".." goes up one level.
+* **OK** on "Use this folder" saves the current location and rescans the library.
 * **Back** leaves the browser without changing the folder.
 
 Older versions read the folder from music_path.txt. If that file exists it is imported automatically the first time this version runs, after which the setting lives in the app's own settings file.
